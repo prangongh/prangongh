@@ -1,28 +1,42 @@
 ### Hi there 👋
 
-I am a **senior Computer Engineering student** at Stony Brook University 🐺. 
+I am a **senior Computer Engineering student** at Stony Brook University 🐺.
 
 As an aspiring product manager and engineer, I am passionate about bridging **project management**, **software engineering**, and **embedded systems design** to build user-focused hardware and software products.
 
-Currently, I am an **IoT Data Analyst at Enertiv**, where I am empowering building owners with data-driven insights by expanding our Internet-of-Things (IoT) sensor network.
+- 🌞 I am currently...
+    - an IoT Data Analyst at [Enertiv](https://enertiv.com)...
+        - ...spearheading IoT deployments, integrating new IoT products, overhauling the production process, and a lot more!
+    - an Instructor in Stony Brook University's [Science and Technology Entry Program](https://www.stonybrook.edu/commcms/stem-smart/k-12/step)...
+        - ...teaching underrepresented minority and low-income high school students about programming and technology.
 
-Additionally, I am an **Instructor** in Stony Brook University's Science and Technology Entry Program, where I teach introductory programming to underrepresented minority and low-income high school students.
+- 🌒 Previously, I was...
+    - the President and Project Manager of the Stony Brook Robotics Team
+    - an Intern at the [IAB Tech Lab](https://iabtechlab.com/), [Stony Brook University's Center for Civic Justice](https://www.stonybrook.edu/civicjustice/), and [Verizon Media](https://www.verizonmedia.com/)
 
-Previously, I was the **President and a Project Manager of the Stony Brook Robotics Team**, Stony Brook's largest engineering design team, where I led a group of over 50 students across 3 engineering teams in competition-based engineering projects.
+- 💪 My skills...
+    - The Software:
+        - Python, C++, C, Java, Assembly (MIPS + AVR), SQL, HTML/CSS/JS, Git, UNIX/Linux, Bash
+    - The Hardware:
+        - Embedded Systems (ARM + AVR MCUs), Raspberry Pi, Arduino, VHDL, SystemVerilog, Autodesk EAGLE
+    - The Soft Skills:
+        - Leadership, Organization, Communication, Teamwork, Team Development, 
+       
+- 🎉 The Fun Stuff...
+    - learning 日本語 🗾🎌
+    - watching anime 🍿 (send recs!)
+    - reading about personal development 📚 (Atomic Habits, The Obstacle Is The Way, Thinking Fast and Slow, etc.)
 
-- 📫 Find anything interesting/thought-provoking? Reach out at prangon.gh[at]gmail[dot]com
+- 💪 My skills...
+    - The Software:
+        - Python, C++, C, Java, Assembly (MIPS + AVR), SQL, HTML/CSS/JS, Git, UNIX/Linux, Bash
+    - The Hardware:
+        - Embedded Systems (ARM + AVR MCUs), Raspberry Pi, Arduino, VHDL, SystemVerilog, Autodesk EAGLE
+    - The Soft Skills:
+        - Leadership, Organization, Communication, Teamwork, Team Development, Time Management, Public Speaking 
 
-<!--
-**prangongh/prangongh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 📫 Find anything interesting/thought-provoking? Reach out at prangon.gh[at]gmail[dot]com!
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Other Details...
+    - My website: [prangonghose.com](https://prangonghose.com)
+    - My experiences in PDF: [Resume](https://prangonghose.com/Prangon_Ghose_Resume.pdf)
