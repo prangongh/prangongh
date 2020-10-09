@@ -15,25 +15,17 @@ As an aspiring product manager and engineer, I am passionate about bridging **pr
     - an Intern at the [IAB Tech Lab](https://iabtechlab.com/), [Stony Brook University's Center for Civic Justice](https://www.stonybrook.edu/civicjustice/), and [Verizon Media](https://www.verizonmedia.com/)
 
 - 💪 **My skills...**
-    - The Software:
-        - Python, C++, C, Java, Assembly (MIPS + AVR), SQL, HTML/CSS/JS, Git, UNIX/Linux, Bash
-    - The Hardware:
-        - Embedded Systems (ARM + AVR MCUs), Raspberry Pi, Arduino, VHDL, SystemVerilog, Autodesk EAGLE
-    - The Soft Skills:
-        - Leadership, Organization, Communication, Teamwork, Team Development, Public Speaking 
-       
-- 🎉 **The Fun Stuff...**
-    - learning 日本語 🗾🎌
-    - watching anime 🍿 (send recs!)
-    - reading about personal development 📚 (Atomic Habits, The Obstacle Is The Way, Thinking Fast and Slow, etc.)
-
-- 💪 **My skills...**
     - Software Skills:
         - Python, C++, C, Java, Assembly (MIPS + AVR), SQL, HTML/CSS/JS, Git, UNIX/Linux, Bash
     - Hardware Skills:
         - Embedded Systems (ARM + AVR MCUs), Raspberry Pi, Arduino, VHDL, SystemVerilog, Autodesk EAGLE
     - Soft Skills:
         - Leadership, Organization, Communication, Teamwork, Team Development, Time Management, Public Speaking 
+       
+- 🎉 **The Fun Stuff...**
+    - learning 日本語 🗾🎌
+    - watching anime 🍿 (send recs!)
+    - reading about personal development 📚 (Atomic Habits, The Obstacle Is The Way, Thinking Fast and Slow, etc.)
 
 - 📫 **Find anything interesting/thought-provoking? Reach out at prangon.gh[at]gmail[dot]com!**
 
