@@ -11,15 +11,15 @@ As an aspiring product manager and engineer, I am passionate about bridging **pr
         - ...teaching underrepresented minority and low-income high school students about programming and technology.
 
 - 🌒 **Previously, I was...**
-    - the President and Project Manager of the Stony Brook Robotics Team
+    - the President and a Project Manager of the Stony Brook Robotics Team
     - an Intern at the [IAB Tech Lab](https://iabtechlab.com/), [Stony Brook University's Center for Civic Justice](https://www.stonybrook.edu/civicjustice/), and [Verizon Media](https://www.verizonmedia.com/)
 
 - 💪 **My skills...**
-    - Software Skills:
+    - *Software Skills:*
         - Python, C++, C, Java, Assembly (MIPS + AVR), SQL, HTML/CSS/JS, Git, UNIX/Linux, Bash
-    - Hardware Skills:
+    - *Hardware Skills:*
         - Embedded Systems (ARM + AVR MCUs), Raspberry Pi, Arduino, VHDL, SystemVerilog, Autodesk EAGLE
-    - Soft Skills:
+    - *Soft Skills:*
         - Leadership, Organization, Communication, Teamwork, Team Development, Time Management, Public Speaking 
        
 - 🎉 **The Fun Stuff...**
