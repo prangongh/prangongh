@@ -7,11 +7,10 @@ As an aspiring product manager and engineer, I am passionate about bridging **pr
 - 🌞 **I am currently...**
     - an IoT Data Analyst at [Enertiv](https://enertiv.com)...
         - ...spearheading IoT deployments, integrating new IoT products, overhauling the production process, and a lot more!
-    - an Instructor in Stony Brook University's [Science and Technology Entry Program](https://www.stonybrook.edu/commcms/stem-smart/k-12/step)...
-        - ...teaching underrepresented minority and low-income high school students about programming and technology.
 
 - 🌒 **Previously, I was...**
-    - the President and a Project Manager of the Stony Brook Robotics Team
+    - the President and a Project Manager of the [Stony Brook Robotics Team](https://sbroboticsteam.com/)
+    - an Instructor in Stony Brook University's [Science and Technology Entry Program](https://www.stonybrook.edu/commcms/stem-smart/k-12/step)
     - an Intern at the [IAB Tech Lab](https://iabtechlab.com/), [Stony Brook University's Center for Civic Justice](https://www.stonybrook.edu/civicjustice/), and [Verizon Media](https://www.verizonmedia.com/)
 
 - 💪 **My skills...**
@@ -31,4 +30,4 @@ As an aspiring product manager and engineer, I am passionate about bridging **pr
 
 - **Other Details...**
     - My website: [prangonghose.com](https://prangonghose.com)
-    - My experiences in PDF: [Resume](https://prangonghose.com/Prangon_Ghose_Resume.pdf)
+    - My experiences in a .PDF: [Resume](https://prangonghose.com/Prangon_Ghose_Resume.pdf)
