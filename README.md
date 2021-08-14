@@ -1,21 +1,20 @@
 ### Hi there 👋
 
-I am a **senior Computer Engineering student** at Stony Brook University 🐺.
-
-As an aspiring product manager and engineer, I am passionate about bridging **project management**, **software engineering**, and **embedded systems design** to build user-focused hardware and software products.
+I am passionate about bridging **project management**, **software engineering**, and **embedded systems design** to build user-focused hardware and software products.
 
 - 🌞 **I am currently...**
-    - an IoT Data Analyst at [Enertiv](https://enertiv.com)...
-        - ...spearheading IoT deployments, integrating new IoT products, overhauling the production process, and a lot more!
+    - a Software Engineer Associate at [Lockeed Martin Space](https://www.lockheedmartin.com/en-us/capabilities/space.html)
+        - ...developing and deploying microservices onto the Cloud, using CI/CD methodologies
 
 - 🌒 **Previously, I was...**
+    - an IoT Data Analyst at [Enertiv](https://enertiv.com)
     - the President and a Project Manager of the [Stony Brook Robotics Team](https://sbroboticsteam.com/)
     - an Instructor in Stony Brook University's [Science and Technology Entry Program](https://www.stonybrook.edu/commcms/stem-smart/k-12/step)
     - an Intern at the [IAB Tech Lab](https://iabtechlab.com/), [Stony Brook University's Center for Civic Justice](https://www.stonybrook.edu/civicjustice/), and [Verizon Media](https://www.verizonmedia.com/)
 
 - 💪 **My skills...**
     - *Software Skills:*
-        - Python, C++, C, Java, Assembly (MIPS + AVR), SQL, HTML/CSS/JS, Git, UNIX/Linux, Bash
+        - Python, Java, C++, C, Assembly (MIPS + AVR), SQL, HTML/CSS/JS, Git, UNIX/Linux, Bash
     - *Hardware Skills:*
         - Embedded Systems (ARM + AVR MCUs), Raspberry Pi, Arduino, VHDL, SystemVerilog, Autodesk EAGLE
     - *Soft Skills:*
