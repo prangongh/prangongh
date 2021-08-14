@@ -4,7 +4,7 @@ I am passionate about bridging **project management**, **software engineering**,
 
 - 🌞 **I am currently...**
     - a Software Engineer Associate at [Lockeed Martin Space](https://www.lockheedmartin.com/en-us/capabilities/space.html)
-        - ...developing and deploying microservices onto the Cloud, using CI/CD methodologies
+        - ...developing and deploying microservices onto the Cloud using CI/CD methodologies
 
 - 🌒 **Previously, I was...**
     - an IoT Data Analyst at [Enertiv](https://enertiv.com)
