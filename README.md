@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am passionate about applying technical skills to solve mission critical problems and explore what is possible.
+I am passionate about applying technical skills to solve mission critical problems and to explore what is possible.
 
 - 🌞 **I am currently...**
     - a Software Engineer Associate at [Lockeed Martin Space](https://www.lockheedmartin.com/en-us/capabilities/space.html)
