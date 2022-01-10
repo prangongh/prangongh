@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-I am passionate about bridging **project management**, **software engineering**, and **embedded systems design** to build user-focused hardware and software products.
+I am passionate about applying technical skills to solve mission critical problems and explore what is possible.
 
 - 🌞 **I am currently...**
     - a Software Engineer Associate at [Lockeed Martin Space](https://www.lockheedmartin.com/en-us/capabilities/space.html)
-        - ...developing and deploying microservices onto the Cloud using CI/CD methodologies
+        - ...building ground systems to control, manage, and operate satellites
 
 - 🌒 **Previously, I was...**
     - an IoT Data Analyst at [Enertiv](https://enertiv.com)
@@ -14,7 +14,7 @@ I am passionate about bridging **project management**, **software engineering**,
 
 - 💪 **My skills...**
     - *Software Skills:*
-        - Python, Java, C++, C, Assembly (MIPS + AVR), SQL, HTML/CSS/JS, Git, UNIX/Linux, Bash
+        - Python, Java, C++, C, Kubernetes, Docker, Assembly (MIPS + AVR), SQL, HTML/CSS/JS, Git, UNIX/Linux, Bash
     - *Hardware Skills:*
         - Embedded Systems (ARM + AVR MCUs), Raspberry Pi, Arduino, VHDL, SystemVerilog, Autodesk EAGLE
     - *Soft Skills:*
