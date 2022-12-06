@@ -5,6 +5,8 @@ I am passionate about applying technical skills to solve mission critical proble
 - 🌞 **I am currently...**
     - a Software Engineer at [Lockeed Martin Space](https://www.lockheedmartin.com/en-us/capabilities/space.html)
         - ...building ground systems to control, manage, and operate satellites
+    - a graduate student in [Georgia Tech's OMSCS Program](https://omscs.gatech.edu/)
+        - ...learning about software engineering and cybersecurity
 
 - 🌒 **Previously, I was...**
     - an IoT Data Analyst at [Enertiv](https://enertiv.com)
