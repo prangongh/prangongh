@@ -3,7 +3,7 @@
 I am passionate about applying technical skills to solve mission critical problems and to explore what is possible.
 
 - 🌞 **I am currently...**
-    - a Software Engineer Associate at [Lockeed Martin Space](https://www.lockheedmartin.com/en-us/capabilities/space.html)
+    - a Software Engineer at [Lockeed Martin Space](https://www.lockheedmartin.com/en-us/capabilities/space.html)
         - ...building ground systems to control, manage, and operate satellites
 
 - 🌒 **Previously, I was...**
@@ -14,9 +14,7 @@ I am passionate about applying technical skills to solve mission critical proble
 
 - 💪 **My skills...**
     - *Software Skills:*
-        - Python, Java, C++, C, Kubernetes, Docker, Assembly (MIPS + AVR), SQL, HTML/CSS/JS, Git, UNIX/Linux, Bash
-    - *Hardware Skills:*
-        - Embedded Systems (ARM + AVR MCUs), Raspberry Pi, Arduino, VHDL, SystemVerilog, Autodesk EAGLE
+        - Java, Python, C++, C, Kubernetes, Docker, Assembly (MIPS + AVR), SQL, HTML/CSS/JS, Git, UNIX/Linux, Bash
     - *Soft Skills:*
         - Leadership, Organization, Communication, Teamwork, Team Development, Time Management, Public Speaking 
        
